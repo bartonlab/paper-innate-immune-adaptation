@@ -9,7 +9,7 @@ Yawei Qin<sup>1</sup>, Emily M. Mace<sup>2</sup>, and John P. Barton<sup>1,3,#</
 <sup>1</sup> Department of Physics and Astronomy, University of California, Riverside, USA   \
 <sup>2</sup> Department of Pediatrics, Columbia University Irving Medical Center, New York, USA   \
 <sup>3</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine, Pittsburgh, USA   \
-<sup>#</sup> correspondence to [jpbarton@ucr.edu](mailto:jpbarton@pitt.edu)
+<sup>#</sup> correspondence to [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)
 
 # Contents
 
